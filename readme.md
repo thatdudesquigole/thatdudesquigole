@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Squigole</h1>
-<h3 align="center">A passionate C++ game developer</h3>
+<h3 align="center">A somewhat commited web developer</h3>
 
-- 🔭 I’m currently working on **an untitled game**
+- 🔭 I’m currently working on **an untitled website** (Project Green)
 
-- 🌱 I’m currently learning **GLFW and Vulkan**
+- 🌱 I’m currently learning **ui/ux/figma** (id prefer to know what the prototype will look like before I develop it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
